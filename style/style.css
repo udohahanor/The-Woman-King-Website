@@ -13,7 +13,11 @@
     overflow: hidden;
 }
 .title{
-    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70%;
     align-items: center;
-    margin: auto;
+    padding: 10px;
+    width: 80%;
 }
